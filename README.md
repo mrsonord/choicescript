@@ -3,6 +3,11 @@ Choice Script
 
 Sublime Text 2/3 syntax highlighting for Choice Script
 
+[Choice Script](https://github.com/dfabulich/choicescript)
+
+[Choice of Games](http://www.choiceofgames.com/make-your-own-games/choicescript-intro/)
+
+
 Install:
 
 Prefered installation through package control https://github.com/wbond/sublime.wbond.net
